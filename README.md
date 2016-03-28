@@ -60,6 +60,11 @@ Tested on Android and iOS.
 precisely within a drop area, but maybe close enough. This would make it easier for the user in
 case of very small drop areas or whenever the draggables are almost as big as the drop areas.
 
-###Author: Miguelangel Fernandez, miguelangel.fernandez@kony.com, miguelangelxfm@gmail.com
+##Author:
 
-P.S.: I'm particularly fond and proud of this bit of code, so if you run into any problems please do get in touch with me and I'll do my best to support you.
+Miguelangel Fernandez
+miguelangel.fernandez@kony.com
+miguelangelxfm@gmail.com
+
+#####P.S.:
+I'm particularly fond and proud of this bit of code, so if you run into any problems please do get in touch with me and I'll do my best to support you.
