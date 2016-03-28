@@ -1,0 +1,90 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "398dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_skin_": "s41b4c8336944b1aaff4f1374f470ef5",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "allboxes": [],
+    "annotationId": "906471039d2549cc97c717b259489225",
+    "autogrowMode": 0,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "dropArea1Lbl",
+        "pinkRect",
+        "greenCircle",
+        "redRect"
+    ],
+    "clipBounds": false,
+    "clipbounds": false,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "enableScrolling": true,
+    "enabled": false,
+    "enablescrolling": true,
+    "height": "398dp",
+    "id": "dropArea1",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "906471039d2549cc97c717b259489225",
+    "layoutType": 2,
+    "layouttype": 2,
+    "left": "50dp",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "dragArea",
+    "percent": true,
+    "pf": "frm2",
+    "render": true,
+    "right": "50dp",
+    "skin": "s41b4c8336944b1aaff4f1374f470ef5",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "top": "50dp",
+    "wType": "FlexContainer",
+    "widgetAlignment": 1,
+    "widgetalignment": 1,
+    "zIndex": 20,
+    "zindex": 20
+}

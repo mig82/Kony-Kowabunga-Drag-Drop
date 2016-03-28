@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_skin_": "s8b0e063a89346a6966debbf8762fd04",
+    "_text_": " Drop Area 1",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_wrapping_": 2,
+    "annotationId": "05ef8dd742a14d1685cd61be009d383c",
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "height": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "id": "dropArea1Lbl",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "05ef8dd742a14d1685cd61be009d383c",
+    "left": "16dp",
+    "margin": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "name": "kony.ui.Label",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "dropArea1",
+    "pf": "frm2",
+    "render": true,
+    "right": "16dp",
+    "skin": "s8b0e063a89346a6966debbf8762fd04",
+    "text": " Drop Area 1",
+    "toolTip": "",
+    "tooltip": "",
+    "top": "5dp",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "wrapping": 2,
+    "zIndex": 10,
+    "zindex": 10
+}

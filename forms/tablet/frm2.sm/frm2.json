@@ -1,0 +1,197 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0184a894f1d47a7a692a28c6823425c",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false
+    },
+    "annotationId": "e01bcac081fa45db9d2707c916271aaa",
+    "canUpdateUI": true,
+    "children": [
+        "dragArea",
+        "msg",
+        "gotoBtn"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentOffsetX": 0,
+    "contentOffsetY": 0,
+    "contentSizeHeight": 0,
+    "contentSizeWidth": 0,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "displayOrientation": 1,
+    "displayorientation": 1,
+    "enabled": false,
+    "enabledForIdleTimeout": false,
+    "enabledforidletimeout": false,
+    "id": "frm2",
+    "info": null,
+    "initdone": false,
+    "inputAccessoryViewType": 4,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarConfig": {
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": false
+            }
+        },
+        "titleBar": false
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "e01bcac081fa45db9d2707c916271aaa",
+    "layoutType": 2,
+    "layouttype": 2,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Form2",
+    "needAppMenu": true,
+    "needappmenu": true,
+    "orientation": 1,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "percent": true,
+    "render": true,
+    "retainScrollPosition": false,
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "skin": "s0184a894f1d47a7a692a28c6823425c",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaandroidtablet": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "needAppMenu": false
+    },
+    "title": null,
+    "titleBar": true,
+    "titleBarModel": {
+        "DNDConfig": null,
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s67cd69ef93a4c44ba68966fee5e26c8",
+        "_text_": "",
+        "_visible_": false,
+        "buttonClosureLeftSideView": "",
+        "buttonClosureRightSideView": "",
+        "buttonText": "Edit",
+        "buttonclosureleftsideview": "",
+        "buttonclosurerightsideview": "",
+        "buttontext": "Edit",
+        "canUpdateUI": true,
+        "containerWeight": 0,
+        "containerweight": 0,
+        "enabled": false,
+        "id": "frm2_titleBar",
+        "ide_buttonClosureLeftSideView": "",
+        "ide_buttonClosureRightSideView": "",
+        "ide_titleClosureLeftSideView": "",
+        "ide_titleClosureRightSideView": "",
+        "info": null,
+        "isVisible": true,
+        "isvisible": true,
+        "leftButtonText": "Back",
+        "leftTitle": "Back",
+        "leftbuttontext": "Back",
+        "lefttitle": "Back",
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "kony.ui.TitleBar",
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "prevFormTitle": false,
+        "prevformtitle": false,
+        "render": true,
+        "renderTitleText": true,
+        "rendertitletext": true,
+        "rightTitle": "Edit",
+        "righttitle": "Edit",
+        "skin": "s67cd69ef93a4c44ba68966fee5e26c8",
+        "text": "",
+        "titleBarLeftSideView": "button",
+        "titleBarRightSideView": "button",
+        "titleClosureLeftSideView": "",
+        "titleClosureRightSideView": "",
+        "titlebarleftsideview": "button",
+        "titlebarrightsideview": "button",
+        "titleclosureleftsideview": "",
+        "titleclosurerightsideview": "",
+        "visible": false,
+        "wType": "TitleBar",
+        "widgetAlignment": 5
+    },
+    "titleBarSkin": "s67cd69ef93a4c44ba68966fee5e26c8",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "widgetAlignment": 5,
+    "windows8": {
+        "needAppMenu": false
+    }
+}
