@@ -1,6 +1,6 @@
 # Kowabunga Drag & Drop
 
-##Version: 1.0.1
+#####Version: 1.0.1
 
 ##Description:
 This is an implementation of 'Drag & Drop' functionality for the Kony platform. It allows you to define a parent 'drag area' FlexContainer where dragging is allowed,
