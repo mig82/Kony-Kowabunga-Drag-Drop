@@ -1,6 +1,4 @@
-# Kony-Kowabunga-Drag-Drop
-
-     Kowabunga Drag & Drop       
+# Kowabunga Drag & Drop
 
 Version: 1.0.1
 
