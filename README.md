@@ -3,7 +3,7 @@
 Version: 1.0.1
 
 Description:
-This is an implementation of 'Drag & Drop' functionality. It allows you to define a parent 'drag area' FlexContainer where dragging is allowed,
+This is an implementation of 'Drag & Drop' functionality for the Kony platform. It allows you to define a parent 'drag area' FlexContainer where dragging is allowed,
 several 'draggable' FlexContainers which may be dragged around, and several children 'drop area' FlexContainers where draggables may be dropped.
 Here's a sample structure.
 
@@ -15,6 +15,7 @@ Here's a sample structure.
 			- FlexContainer draggable3
 
 How to use:
+
 		var dnd = new kony.kowabunga.DragNDrop(); //Instantiate
 		dnd.makeDragArea(flex1) //You must create one of these and only one.
 		dnd.makeDropArea(flex2); //You must add one or more of these.
