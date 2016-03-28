@@ -7,8 +7,8 @@ This is an implementation of 'Drag & Drop' functionality for the Kony platform. 
 several 'draggable' FlexContainers which may be dragged around, and several children 'drop area' FlexContainers where draggables may be dropped.
 Here's a sample structure.
 
-- FlexContainer dragArea
-		- FlexContainer dropArea1
+	FlexContainer dragArea
+		FlexContainer dropArea1
 			- FlexContainer draggable1
 			- FlexContainer draggable2
 		- FlexContainer dropArea2
