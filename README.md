@@ -50,6 +50,8 @@ If there's a single drop area, draggables may only be dragged inside it.
 If there are multiple drop areas, draggables be dragged around the entire drag area.
 Draggables may only be dropped inside one of the drop areas.
 
+##Demo video:
+https://youtu.be/CZKdCCUu2eA
 
 ##Implementation Details:
 Using this component will shut down scrolling on your forms by switching <form>.enableScrolling = false.
