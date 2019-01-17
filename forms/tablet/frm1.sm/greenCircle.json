@@ -1,0 +1,83 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "76dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc618a18bc8845c0b34215efcf8f6644",
+    "_top_": {
+        "type": "string",
+        "value": "64dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.AndroidFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "defaultunit": 2,
+    "id": "greenCircle",
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.IPadFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet153732859323",
+    "layouttype": 2,
+    "margininpixel": false,
+    "name": "kony.ui.FlexContainer",
+    "paddinginpixel": false,
+    "parent": "dragArea",
+    "pf": "frm1",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPAFlexProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPAAndroidTabletFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPAIPadFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPAWindowsTabletFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.Windows8FlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "zindex": 30
+}

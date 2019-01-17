@@ -1,0 +1,238 @@
+{
+    "@class": "com.kony.gen.appprops.KVizAppProps",
+    "appidkey": "DragNDrop",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "d3fe7ba80e8a490cbe99a63a709837d7",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "922a3a1b45824099b4348b6ef16e05f2",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "65e14116e570496a802160a8199016a5",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "ae3177502c9f48d0afd08ff04165890b",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "mobile": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "0e91721e13df4c1b91c430d4c1932435",
+                    "menuPSPs": {
+                        "android": {
+                            "showAsFlag": 0
+                        }
+                    },
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "140ae63449cd4a52acf9ee564ad1a2ba",
+                    "menuPSPs": {
+                        "android": {
+                            "showAsFlag": 0
+                        }
+                    },
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "a14a7f80286a42bbbdddd625fa0c0103",
+                    "menuPSPs": {
+                        "android": {
+                            "showAsFlag": 0
+                        }
+                    },
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "18129abe3c134ea89a15cfb07f58f55e",
+                    "menuPSPs": {
+                        "android": {
+                            "showAsFlag": 0
+                        }
+                    },
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "tablet": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "e24b4602e73449b9a71b99673f1bcf3e",
+                    "menuPSPs": {
+                        "android": {
+                            "showAsFlag": 0
+                        },
+                        "windows8": {
+                            "appbarButtonStyle": "No Style",
+                            "position": "BOTTOM_LEFT"
+                        }
+                    },
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "0ea62303c55c4c9a8884fc480d92905f",
+                    "menuPSPs": {
+                        "android": {
+                            "showAsFlag": 0
+                        },
+                        "windows8": {
+                            "appbarButtonStyle": "No Style",
+                            "position": "BOTTOM_LEFT"
+                        }
+                    },
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "051558bae83f4d838e0aa9698e17b4fb",
+                    "menuPSPs": {
+                        "android": {
+                            "showAsFlag": 0
+                        },
+                        "windows8": {
+                            "appbarButtonStyle": "No Style",
+                            "position": "BOTTOM_LEFT"
+                        }
+                    },
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "3baa8fda54cf4e3dbde0953a5ba4d7af",
+                    "menuPSPs": {
+                        "android": {
+                            "showAsFlag": 0
+                        },
+                        "windows8": {
+                            "appbarButtonStyle": "No Style",
+                            "position": "BOTTOM_LEFT"
+                        }
+                    },
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "appnamekey": "DragNDrop",
+    "apppackagekey": "com.orgname.DragNDrop",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "category": "app",
+    "createdVizVersion": "7.3.0",
+    "createdgaversion": "6.5.0",
+    "currentgaversion": "8.2.0",
+    "defaulttheme": "defaultTheme",
+    "desktopwebaligenmentoption": "left",
+    "desktopwebbasefontsize": "16",
+    "desktopwebwidthoption": "Percentage",
+    "desktopwebwidthval": "100",
+    "enableactionbar": false,
+    "extendBottom": "false",
+    "extendTop": "false",
+    "ide_appEvents": {},
+    "ipadlandscapemodekey": "portrait",
+    "iphonebundleidentifierkey": "com.kony.DragNDrop",
+    "iphonebundleversionkey": "1.0",
+    "iphoneipadglossyeffectkey": "false",
+    "isA11yConfigEnabled": "false",
+    "isNewAppWithRespectToAndroidPackageName": "true",
+    "konyVizVersion": "8.2.0",
+    "mastersProperties": {
+        "masterVersion": "2.0.0"
+    },
+    "mwaddrkey": "192.168.1.107",
+    "mwhttpsportkey": "443",
+    "mwportkey": "80",
+    "nativeContainerProperties": {
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true,
+        "isModified": false
+    },
+    "pasteboardType": "2",
+    "project_version": "sprint31",
+    "spaandroidtabbasefontsize": "17",
+    "spaipadbasefontsize": "17",
+    "startupformkey": "p2kwiet153732859320",
+    "statusBarHidden": "false",
+    "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
+    "supportedorientations": [
+        "portrait"
+    ],
+    "tabletstartupformkey": "frm1",
+    "vendornamekey": "KonyLabs",
+    "wap_android240_fontsize": "10",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "13",
+    "wap_android400_fontsize": "14",
+    "wap_android440_fontsize": "15",
+    "wap_android480_fontsize": "16",
+    "wap_android640_fontsize": "19",
+    "wap_android_fontsize": "10",
+    "wap_ip_fontsize": "12",
+    "wap_spaandroidtab_fontsize": "17",
+    "wap_spaandroidtabhdpi_fontsize": "16",
+    "wap_spaandroidtabldpi_fontsize": "17",
+    "wap_spaandroidtabmdpi_fontsize": "14",
+    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "wap_spaipad_fontsize": "17",
+    "winmangotiletitlekey": "DragNDrop",
+    "winmobileguidkey": ""
+}

@@ -1,0 +1,96 @@
+{
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "sc4771fd3b6d4a118e6080d7dd4aabaa",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.AndroidFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "children": [
+        "greenCircle",
+        "dropArea2",
+        "dropArea1",
+        "pinkRect"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "defaultunit": 2,
+    "id": "dragArea",
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.IPhoneFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet153732859319",
+    "layouttype": 2,
+    "margininpixel": false,
+    "name": "kony.ui.FlexContainer",
+    "paddinginpixel": false,
+    "parent": "frm1",
+    "pf": "frm1",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPAFlexProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPAAndroidFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPABBFlexProperty",
+        "_render_": false,
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPAIPhoneFlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.SPAWinPhone8FlexProperty",
+        "_render_": true,
+        "render": true
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.flex.WinPhone8FlexProperty",
+        "_render_": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    },
+    "zindex": 10
+}

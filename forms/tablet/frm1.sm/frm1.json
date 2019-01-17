@@ -1,0 +1,150 @@
+{
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf7a33aaad2e47c8960033690c7a8bfa",
+    "_title_": "",
+    "allboxes": [],
+    "allowhorizontalbounce": true,
+    "allowverticalbounce": true,
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.AndroidScrollFlexFormProperty",
+        "displayOrientation": 1,
+        "footerOverlap": false,
+        "headerOverlap": false,
+        "inTransitionConfig": {
+            "formAnimation": 0
+        },
+        "isModal": false,
+        "menuPosition": 2,
+        "needAppMenu": true,
+        "outTransitionConfig": {
+            "formAnimation": 0
+        },
+        "psp": {
+            "showActionBar": true,
+            "showActionBarIcon": true,
+            "windowSoftInputMode": 1
+        },
+        "render": true
+    },
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "msg",
+        "dragArea"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "contentoffset": {},
+    "contentsize": {},
+    "defaultunit": 2,
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "enablescrolling": true,
+    "footeroverlap": false,
+    "headeroverlap": false,
+    "horizontalscrollindicator": true,
+    "id": "frm1",
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPadScrollFlexFormProperty",
+        "displayOrientation": 1,
+        "footerOverlap": false,
+        "headerOverlap": false,
+        "inTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionEffect": "none"
+        },
+        "isModal": false,
+        "needAppMenu": true,
+        "outTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionEffect": "none"
+        },
+        "psp": {
+            "maxZoomScale": 1,
+            "minZoomScale": 1,
+            "titleBarConfig": {
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "skinID": "slTitleBar",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleBarSkin": "slTitleBar",
+                "visible": true
+            },
+            "zoomScale": 1
+        },
+        "render": true,
+        "titleBar": true
+    },
+    "ismodal": false,
+    "isvisible": true,
+    "kuid": "p2kwiet153732859330",
+    "layouttype": 2,
+    "margininpixel": false,
+    "menuposition": 2,
+    "name": "kony.ui.Form2",
+    "paddinginpixel": false,
+    "pagingenabled": false,
+    "retainscrollposition": false,
+    "scrolldirection": 2,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAScrollFlexFormProperty",
+        "inTransitionConfig": {
+            "formTransition": "none"
+        },
+        "isModal": false,
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "formTransition": "none"
+        }
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAAndroidTabletScrollFlexFormProperty",
+        "needAppMenu": true,
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAIPadScrollFlexFormProperty",
+        "needAppMenu": true,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAWindowsTabletScrollFlexFormProperty",
+        "needAppMenu": true,
+        "render": true
+    },
+    "titleBarSkin": "s00f74a0b6da425ea5f904c281e3b966",
+    "titlebar": true,
+    "transparencybehindthepopup": 100,
+    "type": 3,
+    "verticalscrollindicator": true,
+    "wType": "Form",
+    "widgetalignment": 1,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.Windows8ScrollFlexFormProperty",
+        "displayOrientation": 1,
+        "needAppMenu": true,
+        "render": true
+    },
+    "zindex": 1
+}
