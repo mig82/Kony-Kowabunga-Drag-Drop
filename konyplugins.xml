@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-    <pluginInfo version-no="8.2.6.v201806011903" plugin-id="com.kony.ide.paas.branding" plugin-name="Branding"/>
-    <pluginInfo version-no="8.2.6.v201805311344" plugin-id="com.pat.tool.keditor" plugin-name="Kony Studio"/>
-    <pluginInfo version-no="8.2.0.v201804042035" plugin-id="com.kony.thirdparty.jars" plugin-name="Third Party Jars Plug-in"/>
-    <pluginInfo version-no="8.2.0.v201804042035" plugin-id="com.pat.soapui" plugin-name="Soap UI Plugin"/>
-    <pluginInfo version-no="8.2.0.v201804040839" plugin-id="com.kony.codegen" plugin-name="Kony Codegenerator"/>
-    <pluginInfo version-no="8.2.0.v201804042035" plugin-id="com.kony.license" plugin-name="Kony Studio Licensing"/>
-    <pluginInfo version-no="8.2.0.GA_v201805161521_r3" plugin-id="com.kony.cloudmiddleware" plugin-name="CloudMiddlewarePlugin"/>
-    <pluginInfo version-no="8.2.0.GA_v201805161521_r3" plugin-id="com.kony.cloudthirdparty" plugin-name="CloudThirdPartyPlugin"/>
-    <pluginInfo version-no="8.2.0.v201804042035" plugin-id="com.kony.viz.ide" plugin-name="Visualizer Integration Plugin"/>
+    <pluginInfo version-no="8.4.4.v201903041202" plugin-id="com.kony.ide.paas.branding" plugin-name="Branding"/>
+    <pluginInfo version-no="8.4.3.v201902211427" plugin-id="com.pat.tool.keditor" plugin-name="Kony Studio"/>
+    <pluginInfo version-no="8.4.0.v201901240954" plugin-id="com.kony.thirdparty.jars" plugin-name="Third Party Jars Plug-in"/>
+    <pluginInfo version-no="8.4.0.v201901240954" plugin-id="com.pat.soapui" plugin-name="Soap UI Plugin"/>
+    <pluginInfo version-no="8.4.0.v201812201320" plugin-id="com.kony.codegen" plugin-name="Kony Codegenerator"/>
+    <pluginInfo version-no="8.4.0.v201901240954" plugin-id="com.kony.license" plugin-name="Kony Studio Licensing"/>
+    <pluginInfo version-no="8.4.1.GA_v201902201646_r0" plugin-id="com.kony.cloudmiddleware" plugin-name="CloudMiddlewarePlugin"/>
+    <pluginInfo version-no="8.4.1.GA_v201902201646_r0" plugin-id="com.kony.cloudthirdparty" plugin-name="CloudThirdPartyPlugin"/>
+    <pluginInfo version-no="8.4.2.v201902141540" plugin-id="com.kony.viz.ide" plugin-name="Visualizer Integration Plugin"/>
     <pluginInfo version-no="8.0.0.v201709081322" plugin-id="com.kony.studio.cloud" plugin-name="Kony Studio Cloud Integration"/>
-    <pluginInfo version-no="8.2.0.v201804102028" plugin-id="com.kony.fpreview" plugin-name="Kony Functional Preview Plugin"/>
-    <pluginInfo version-no="8.2.6.v201805301205" plugin-id="com.kony.studio.viz.api" plugin-name="StudioViz API"/>
-    <pluginInfo version-no="8.2.6.v201805301205" plugin-id="com.kony.studio.viz.chrome.api" plugin-name="StudioViz Chrome API"/>
-    <pluginInfo version-no="8.2.6.v201805301205" plugin-id="com.kony.studio.viz.chrome.mac64" plugin-name="StudioViz Chrome"/>
-    <pluginInfo version-no="8.2.6.v201805301205" plugin-id="com.kony.studio.viz.core.mac64" plugin-name="StudioViz Core"/>
-    <pluginInfo version-no="8.2.6.v201805301205" plugin-id="com.kony.studio.viz.nodejs.mac64" plugin-name="StudioViz NodeJS"/>
-    <pluginInfo version-no="8.2.0.v201804121726" plugin-id="com.kony.reference.architecture" plugin-name="Reference Architecture"/>
-    <pluginInfo version-no="8.2.5.v201805242026" plugin-id="com.pat.tabrcandroid" plugin-name="Tablet Android"/>
-    <pluginInfo version-no="8.2.4.v201805181204" plugin-id="com.kony.windowsphone8" plugin-name="Windows Phone 8 Plug-in"/>
-    <pluginInfo version-no="8.2.0.v201803301118" plugin-id="com.kony.windows8" plugin-name="Windows 8.1 Plug-in"/>
-    <pluginInfo version-no="8.2.6.v201805301519" plugin-id="com.kony.windows10" plugin-name="Windows 10 Plug-in"/>
-    <pluginInfo version-no="8.2.5.v201805242026" plugin-id="com.pat.android" plugin-name="Android"/>
-    <pluginInfo version-no="8.2.0.v201803301111" plugin-id="com.kony.windows" plugin-name="Windows Desktop Plug-in"/>
-    <pluginInfo version-no="8.2.6.v201806010908" plugin-id="com.kony.spa" plugin-name="SPA"/>
-    <pluginInfo version-no="8.2.6.v201805312156" plugin-id="com.kony.desktopweb" plugin-name="Kony Desktop Web"/>
-    <pluginInfo version-no="8.2.3.201805091627" plugin-id="com.kony.webcommons" plugin-name="Kony Web Commons"/>
-    <pluginInfo version-no="8.2.6.v201806011602" plugin-id="com.kony.ios" plugin-name="iOS Plugin"/>
-    <pluginInfo version-no="8.2.6.v201805301455" plugin-id="com.kony.mobile.fabric.client.sdk" plugin-name="MobileFabric Client SDK"/>
+    <pluginInfo version-no="8.4.0.v201901240955" plugin-id="com.kony.fpreview" plugin-name="Kony Functional Preview Plugin"/>
+    <pluginInfo version-no="8.4.4.v201902281118" plugin-id="com.kony.studio.viz.api" plugin-name="StudioViz API"/>
+    <pluginInfo version-no="8.4.4.v201902281118" plugin-id="com.kony.studio.viz.chrome.api" plugin-name="StudioViz Chrome API"/>
+    <pluginInfo version-no="8.4.4.v201902281118" plugin-id="com.kony.studio.viz.chrome.mac64" plugin-name="StudioViz Chrome"/>
+    <pluginInfo version-no="8.4.4.v201902281118" plugin-id="com.kony.studio.viz.core.mac64" plugin-name="StudioViz Core"/>
+    <pluginInfo version-no="8.4.4.v201902281118" plugin-id="com.kony.studio.viz.nodejs.mac64" plugin-name="StudioViz NodeJS"/>
+    <pluginInfo version-no="8.4.0.v201812281452" plugin-id="com.kony.reference.architecture" plugin-name="Reference Architecture"/>
+    <pluginInfo version-no="8.4.3.v201902232103" plugin-id="com.pat.tabrcandroid" plugin-name="Tablet Android"/>
+    <pluginInfo version-no="8.4.3.v201902232103" plugin-id="com.pat.android" plugin-name="Android"/>
+    <pluginInfo version-no="8.4.3.v201902221143" plugin-id="com.kony.spa" plugin-name="SPA"/>
+    <pluginInfo version-no="8.4.3.v201902221147" plugin-id="com.kony.desktopweb" plugin-name="Kony Desktop Web"/>
+    <pluginInfo version-no="8.4.0.201901111707" plugin-id="com.kony.webcommons" plugin-name="Kony Web Commons"/>
+    <pluginInfo version-no="8.4.3.v201902211507" plugin-id="com.kony.ios" plugin-name="iOS Plugin"/>
+    <pluginInfo version-no="8.4.4.v201903011255" plugin-id="com.kony.mobile.fabric.client.sdk" plugin-name="MobileFabric Client SDK"/>
 </plugins>
