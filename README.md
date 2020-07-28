@@ -54,8 +54,9 @@ Draggables may only be dropped inside one of the drop areas.
 https://youtu.be/CZKdCCUu2eA
 
 ## Implementation Details:
-Using this component will shut down scrolling on your forms by switching <form>.enableScrolling = false.
-Tested on Android and iOS.
+
+* Using this component will shut down scrolling on your forms by switching `<form>.enableScrolling=false`.
+* This PoC predates Visualizer's MVC architecture, so the current implementation of this only works on freeform projects.
 
 ## TO-DO:
 1. Allow an error tolerance to the drop, so that the drop doesn't have to be
